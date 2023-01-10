@@ -1,0 +1,8 @@
+{
+    "name": "Web_Centro",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Alfonso",
+    "contributors": [],
+    "dependencies": {}
+}
